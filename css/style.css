@@ -256,3 +256,9 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+#questions{
+  border: 3px solid teal;
+  margin-top: 30px;
+  padding: 15px;
+}
